@@ -13,7 +13,7 @@ The analysis covers price distributions across neighborhoods, property popularit
 * **Power BI** (Interactive Dashboard Creation)
 
 ## 📁 Repository Structure
-* `NEW.py` - The core Python script containing the cleaning pipeline, visual analysis, and SQL queries.
+* `athens_airbnb_clean.py` - The core Python script containing the cleaning pipeline, visual analysis, and SQL queries.
 * `athens_airbnb_clean.csv` - The finalized, clean dataset exported after the Python pipeline.
 * `README.md` - Project documentation and executive summary.
 
@@ -36,6 +36,5 @@ The raw dataset from Inside Airbnb was optimized through the following steps:
 Through SQLite queries, the following metrics were established:
 * **Market Saturation:** Identified which neighborhoods have the highest percentage of entire homes dedicated to Airbnb.
 * **Estimated Revenue Leaders:** Tracked top-performing properties by multiplying price with review volume to approximate maximum turnover.
-
 ---
 *Developed as part of a professional Data Analytics portfolio.*
