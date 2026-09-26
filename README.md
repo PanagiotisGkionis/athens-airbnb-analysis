@@ -36,5 +36,7 @@ The raw dataset from Inside Airbnb was optimized through the following steps:
 Through SQLite queries, the following metrics were established:
 * **Market Saturation:** Identified which neighborhoods have the highest percentage of entire homes dedicated to Airbnb.
 * **Estimated Revenue Leaders:** Tracked top-performing properties by multiplying price with review volume to approximate maximum turnover.
+![Power BI Dashboard Overview](images/dashboard_overview.png)
+![Power BI Dashboard Filtered](images/dashboard_filtered.png)
 ---
 *Developed as part of a professional Data Analytics portfolio.*
